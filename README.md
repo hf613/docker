@@ -1,6 +1,6 @@
 FROM openjdk:8-jre
 
-MAINTAINER dfengwei@163.com
+MAINTAINER hf
 
 ENV JAVA_HOME /docker-java-home
 ENV CATALINA_HOME /usr/local/tomcat
